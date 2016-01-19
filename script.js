@@ -9,6 +9,7 @@ function check_temp() {
     var tempNum = Number(tempString);
     //
     // checking value of number
+    var message = '';
     if (tempNum < 98.6) {
         message = 'Your temperture is too low!';
     }
