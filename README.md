@@ -3,7 +3,7 @@
 
 ## Instructions
 
-In this excercise, we'll be taking the user's temperature and using our if statments to determine whether or not they have a fever.
+In this exercise, we'll be taking the user's temperature and using our if statements to determine whether or not they have a fever.
 
 Fork this repository and write the necessary code in `script.js`. Write logic to determine if the user's temperature is high, low, or just right.
 
