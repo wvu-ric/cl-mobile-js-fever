@@ -3,4 +3,10 @@ var tempString = prompt("What is your temperature?");
 var tempNum = Number(tempString)
 
 
-// Put your if logic here
+if ( Number < 95 ) {
+   alert("You're freezing!");
+}
+
+if (Number > 95 ) {
+  alert("You're buring up.");
+}
