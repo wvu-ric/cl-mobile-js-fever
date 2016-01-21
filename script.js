@@ -7,10 +7,10 @@ if ( tempNum < 98 ) {
    alert("You're freezing!");
 }
 
-if ( tempNum = 98) {
+else if ( tempNum == 98) {
    alert("You're just fine!")
 }
 
-if ( tempNum > 98 ) {
+else if ( tempNum > 98 ) {
   alert("You're burning up!");
 }
